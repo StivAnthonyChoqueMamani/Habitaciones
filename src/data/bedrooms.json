@@ -1,0 +1,74 @@
+[
+  {
+    "name": "201",
+    "presentation": "Habitacion Matrimonial",
+    "description": "Habitacion Matrimonial con servicio de TV/CABLE y baño propio",
+    "price": 30,
+    "floor": 1,
+    "status": "disponible"
+  },
+  {
+    "name": "202",
+    "presentation": "Habitacion Matrimonial",
+    "description": "Habitacion Doble Simple con servicio de TV/CABLE y baño propio",
+    "price": 30,
+    "floor": 1,
+    "status": "disponible"
+  },
+  {
+    "name": "203",
+    "presentation": "Habitacion Matrimonial",
+    "description": "Habitacion Matrimonial con servicio de TV/CABLE y baño propio",
+    "price": 30,
+    "floor": 1,
+    "status": "ocupado"
+  },
+  {
+    "name": "205",
+    "presentation": "Habitacion Matrimonial",
+    "description": "Habitacion Matrimonial con servicio de TV/CABLE y baño propio",
+    "price": 30,
+    "floor": 1,
+    "status": "disponible"
+  },
+  {
+    "name": "206",
+    "presentation": "Habitacion Simple",
+    "description": "Habitacion Simple con servicio de TV/CABLE",
+    "price": 20,
+    "floor": 1,
+    "status": "disponible"
+  },
+  {
+    "name": "207",
+    "presentation": "Habitacion Matrimonial",
+    "description": "Habitacion Matrimonial con servicio de TV/CABLE y baño propio",
+    "price": 30,
+    "floor": 1,
+    "status": "disponible"
+  },
+  {
+    "name": "208",
+    "presentation": "Habitacion Simple",
+    "description": "Habitacion Matrimonial con servicio de TV/CABLE",
+    "price": 20,
+    "floor": 1,
+    "status": "disponible"
+  },
+  {
+    "name": "300",
+    "presentation": "Habitacion Simple",
+    "description": "Habitacion Matrimonial con servicio de TV/CABLE",
+    "price": 20,
+    "floor": 1,
+    "status": "disponible"
+  },
+  {
+    "name": "301",
+    "presentation": "Habitacion Simple",
+    "description": "Habitacion Matrimonial con servicio de TV/CABLE",
+    "price": 30,
+    "floor": 1,
+    "status": "ocupado"
+  }
+]
